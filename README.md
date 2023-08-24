@@ -24,7 +24,7 @@ Before you begin, ensure you have the following prerequisites:
 To use My Awesome Flutter Project, you need to follow these steps:
 
 1. First, clone the repository to your local machine:
-    - git clone https://github.com/victormystery/rove_transport_app.git
+    - git clone https://github.com/victormystery/Rove_Transport_App.git
 2. Change into the project directory:
     - cd rove_transport_app
 3. Install the dependencies using Flutter:
